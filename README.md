@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=diamondman51" alt="diamondman51" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@diamondman51" target="blank"><img src="https://img.shields.io/twitter/follow/@diamondman51?logo=twitter&style=for-the-badge" alt="@diamondman51" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@diamondman51" target="_blank"><img src="https://img.shields.io/twitter/follow/@diamondman51?logo=twitter&style=for-the-badge" alt="@diamondman51" /></a> </p>
 
 - 👯 I’m looking to collaborate on **Python, HTML, CSS**
 
