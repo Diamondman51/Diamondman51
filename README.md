@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **HTML, CSS, Pyton, Django, SQL**
 
-- 📫 How to reach me **@Diamondman51**
+- 📫 How to reach me **Diamondman51**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
