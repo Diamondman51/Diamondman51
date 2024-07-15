@@ -10,23 +10,19 @@
 <body>
     <h1 align="center">Hi 👋, I'm Javakhir</h1>
     <h3 align="center">A passionate backend developer from Uzbekistan</h3>
-    <div class="container" style="margin: auto !important">
+    <div class="container">
         <div class="img_item">
             <div class="item1">
-            <img src="images/hello.gif" alt="" style="width: 100%; margin: auto;">
+            <img src="images/hello.gif" alt="" style="width: 100%;">
             </div>
-            <!-- <div class="item3">
-                <img src="images/github.gif" alt="" style="width: 100%; margin: auto;">
-            </div> -->
+            <div class="item2">
+                <img src="images/snake.gif" alt="" style="width: 100%;">
+            </div>
         </div>
     </div>
-    
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diamondman51&label=Profile%20views&color=0e75b6&style=flat" alt="diamondman51" /> </p>
-
 <p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=diamondman51" alt="diamondman51" /> </p>
-
 <p align="left"> <a href="https://twitter.com/@diamondman51" target="_blank"><img src="https://img.shields.io/twitter/follow/@diamondman51?logo=twitter&style=for-the-badge" alt="@diamondman51" /></a> </p>
 
 - 👯 I’m looking to collaborate on **Python, HTML, CSS**
