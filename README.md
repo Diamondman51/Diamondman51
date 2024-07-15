@@ -22,8 +22,8 @@
     </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diamondman51&label=Profile%20views&color=0e75b6&style=flat" alt="diamondman51" /> </p>
-<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=diamondman51" alt="diamondman51" /> </p>
-<p align="left"> <a href="https://twitter.com/@diamondman51" target="_blank"><img src="https://img.shields.io/twitter/follow/@diamondman51?logo=twitter&style=for-the-badge" alt="@diamondman51" /></a> </p>
+<!-- <p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=diamondman51" alt="diamondman51" /> </p> -->
+<!-- <p align="left"> <a href="https://twitter.com/@diamondman51" target="_blank"><img src="https://img.shields.io/twitter/follow/@diamondman51?logo=twitter&style=for-the-badge" alt="@diamondman51" /></a> </p> -->
 
 - 👯 I’m looking to collaborate on **Python, HTML, CSS**
 
@@ -31,11 +31,14 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Diamondman51](https://github.com/Diamondman51)
 
+- 👨‍💻 Here is my portfolio: [https://github.com/Diamondman51/Portfolio](https://github.com/Diamondman51/Portfolio)
+
 - 💬 Ask me about **HTML, CSS, Pyton, Django, SQL**
 
-- 📫 How to reach me **@Diamondman51**
+- 📫 How to reach me **@Diamondman51** on telegram
 
 ### Blogs posts
+
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
