@@ -16,7 +16,7 @@
             <img src="images/hello.gif" alt="" style="width: 100%;">
             </div>
             <div class="item2">
-                <img src="images/snake.gif" alt="" style="width: 100%;">
+                <img src="images/snake_white.svg" alt="" style="width: 100%;">
             </div>
         </div>
     </div>
