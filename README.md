@@ -35,7 +35,8 @@
 
 - 💬 Ask me about **HTML, CSS, Pyton, Django, SQL**
 
-- 📫 How to reach me **@Diamondman51** on telegram
+- 📫 How to reach me on telegram:
+- **@Diamondman51** 
 
 ### Blogs posts
 
