@@ -25,13 +25,15 @@
 <!-- <p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=diamondman51" alt="diamondman51" /> </p> -->
 <!-- <p align="left"> <a href="https://twitter.com/@diamondman51" target="_blank"><img src="https://img.shields.io/twitter/follow/@diamondman51?logo=twitter&style=for-the-badge" alt="@diamondman51" /></a> </p> -->
 
-- 👯 I’m looking to collaborate on **Python, HTML, CSS**
+- 👯 I’m looking to collaborate on **Python, Django, Django Rest, Bootstrap, HTML, CSS**
 
-- 🤝 I’m looking for help with **Python, SQL, Django, HTML, CSS**
+- 🤝 I’m looking for help with **Python, SQL, Django, Django Rest, Bootstrap, HTML, CSS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Diamondman51](https://github.com/Diamondman51)
 
 - 👨‍💻 Here is my portfolio: [https://github.com/Diamondman51/Portfolio](https://github.com/Diamondman51/Portfolio)
+
+- Here is my blog web-site [https://diamondman51.pythonanywhere.com/blogs](https://diamondman51.pythonanywhere.com/blogs)
 
 - 💬 Ask me about **HTML, CSS, Pyton, Django, SQL**
 
