@@ -34,7 +34,7 @@
 - 👨‍💻 Here is my portfolio: [https://github.com/Diamondman51/Portfolio](https://github.com/Diamondman51/Portfolio)
 
 - Blog web-site [https://diamondman51.pythonanywhere.com/blogs](https://diamondman51.pythonanywhere.com/blogs)
-- Ecommerce web-site [https://diamondman51.pythonanywhere.com/blog](https://diamondman51.pythonanywhere.com/blogs)
+- Ecommerce web-site [https://diamondman52.pythonanywhere.com](https://diamondman52.pythonanywhere.com)
 
 - 💬 Ask me about **HTML, CSS, Pyton, Django, SQL**
 
