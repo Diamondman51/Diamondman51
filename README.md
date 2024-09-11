@@ -33,7 +33,8 @@
 
 - 👨‍💻 Here is my portfolio: [https://github.com/Diamondman51/Portfolio](https://github.com/Diamondman51/Portfolio)
 
-- Here is my blog web-site [https://diamondman51.pythonanywhere.com/blogs](https://diamondman51.pythonanywhere.com/blogs)
+- Blog web-site [https://diamondman51.pythonanywhere.com/blogs](https://diamondman51.pythonanywhere.com/blogs)
+- Ecommerce web-site [https://diamondman51.pythonanywhere.com/blog](https://diamondman51.pythonanywhere.com/blogs)
 
 - 💬 Ask me about **HTML, CSS, Pyton, Django, SQL**
 
