@@ -31,8 +31,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Diamondman51](https://github.com/Diamondman51)
 
-- 👨‍💻 Here is my portfolio: [https://github.com/Diamondman51/Portfolio](https://github.com/Diamondman51/Portfolio)
-
 - Blog web-site [https://diamondman51.pythonanywhere.com/blogs](https://diamondman51.pythonanywhere.com/blogs)
 - Ecommerce web-site [https://diamondman52.pythonanywhere.com](https://diamondman52.pythonanywhere.com)
 
