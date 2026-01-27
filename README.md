@@ -84,7 +84,9 @@ I'm a dedicated backend developer with a passion for creating robust, scalable w
 
 <div align="center">
 
-#### 🚀 [Portfolio Website](https://github.com/Diamondman51/Portfolio)
+#### 🚀 [Blog Website](https://diamondman51.pythonanywhere.com/blogs/)
+#### 🚀 [E-Commerce Website](https://diamondman52.pythonanywhere.com/)
+#### 🚀 [Students Management Website](https://diamondman53.pythonanywhere.com/)
 
 A showcase of my work and skills built with modern web technologies.
 
