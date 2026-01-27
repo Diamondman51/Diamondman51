@@ -1,16 +1,14 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <meta charset='utf-8'>
-    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
-    <meta name='viewport' content='width=device-width, initial-scale=1'>
-    <link rel='stylesheet' type='text/css' media='screen' href='main.css'>
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css" integrity="sha384-xOolHFLEh07PJGoPkLv1IbcEPTNtaed2xpHsD9ESMhqIYd0nLMwNLD69Npy4HI+N" crossorigin="anonymous">
-</head>
-<body>
-    <h1 align="center">Hi 👋, I'm Javakhir</h1>
-    <h3 align="center">A passionate backend developer from Uzbekistan</h3>
-    <div class="container">
+# Hi there! 👋
+
+
+
+## I'm Javakhir, a Passionate Backend Developer from Uzbekistan
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=940&lines=Backend+Developer;Django+Enthusiast;Python+Lover;Open+Source+Contributor;Problem+Solver" alt="Typing SVG" />
+</div>
+
+<div class="container">
         <div class="img_item">
             <div class="item1">
             <img src="images/hello.gif" alt="" style="width: 100%;">
@@ -21,44 +19,141 @@
         </div>
     </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=diamondman51&label=Profile%20views&color=0e75b6&style=flat" alt="diamondman51" /> </p>
-<!-- <p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=diamondman51" alt="diamondman51" /> </p> -->
-<!-- <p align="left"> <a href="https://twitter.com/@diamondman51" target="_blank"><img src="https://img.shields.io/twitter/follow/@diamondman51?logo=twitter&style=for-the-badge" alt="@diamondman51" /></a> </p> -->
+### 🚀 About Me
 
-- 👯 I’m looking to collaborate on **Python, Django, Django Rest, Bootstrap, HTML, CSS**
+I'm a dedicated backend developer with a passion for creating robust, scalable web applications. My journey in software development has equipped me with expertise in modern web technologies and best practices.
 
-- 🤝 I’m looking for help with **Python, SQL, Django, Django Rest, Bootstrap, HTML, CSS**
+- 🔭 Currently working on exciting backend projec
+- 
+- 🌱 Always learning and exploring new technologies
+- 💡 Love solving complex problems with elegant solutions
+- 📚 Strong advocate for clean, maintainable code
+- 🎯 Focused on delivering high-quality software
 
-- 👨‍💻 All of my projects are available at [https://github.com/Diamondman51](https://github.com/Diamondman51)
+### 🛠️ Tech Stack & Tools
 
-- 👨‍💻 Here is my portfolio: [https://github.com/Diamondman51/Portfolio](https://github.com/Diamondman51/Portfolio)
+<div align="center">
 
-- Here is my blog web-site [https://diamondman51.pythonanywhere.com/blogs](https://diamondman51.pythonanywhere.com/blogs)
+#### Backend Development
 
-- 💬 Ask me about **HTML, CSS, Pyton, Django, SQL**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Django REST Framework](https://img.shields.io/badge/Django%20REST-ff1709?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 
-- 📫 How to reach me **@Diamondman51** on telegram
+#### Databases
 
-### Blogs posts
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+
+#### Frontend Skills
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+#### Tools & Technologies
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+
+#### Design & Multimedia
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+
+</div>
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diamondman51&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diamondman51&layout=compact&langs_count=8&theme=dark"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=diamondman51&theme=dark" alt="GitHub Streak" />
+</div>
+
+### 🌟 Featured Projects
+
+<div align="center">
+
+#### 🚀 [Portfolio Website](https://github.com/Diamondman51/Portfolio)
+
+A showcase of my work and skills built with modern web technologies.
+
+#### 🐍 Python Projects
+
+- **Django Applications**: Full-stack web applications with REST APIs
+- **Automation Scripts**: Productivity tools and data processing utilities
+- **Data Analysis**: Projects involving data manipulation and visualization
+
+#### 🎨 Design Projects
+
+- **UI/UX Designs**: Interface designs created in Figma
+- **3D Models**: Blender projects for visualization and animation
+- **Graphics**: Custom illustrations and branding materials
+
+</div>
+
+### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+
 <!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/diamondman51" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="diamondman51" height="30" width="40" /></a>
-<a href="https://twitter.com/@diamondman51" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@diamondman51" height="30" width="40" /></a>
-<a href="https://medium.com/@diamondman51" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@diamondman51" height="30" width="40" /></a>
-<a href="/diamondman51" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="diamondman51" height="30" width="40" /></a>
-</p>
+### 🤝 Let's Collaborate!
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+I'm always open to discussing new opportunities, interesting projects, or just having a chat about technology. Whether you need help with:
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=diamondman51&show_icons=true&locale=en&layout=compact" alt="diamondman51" /></p>
+- **Backend Development**: Django, Python, APIs
+- **Database Design**: PostgreSQL, MySQL optimization
+- **Web Development**: Full-stack solutions
+- **Code Review**: Best practices and architecture
+- **Tech Consulting**: Project planning and implementation
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=diamondman51&show_icons=true&locale=en" alt="diamondman51" /></p>
+### 📫 How to Reach Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=diamondman51&" alt="diamondman51" /></p>
-</body>
-</html>
+<div align="center">
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/javakhir_shavkatov)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zshavkatov61@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/javakhir-shavkatov)
+
+</div>
+
+### 🎯 Current Focus
+
+- 🔍 Exploring **Microservices Architecture**
+- 📚 Learning **Cloud Technologies** (AWS, Docker)
+- 🚀 Building **Scalable Web Applications**
+- 💻 Contributing to **Open Source Projects**
+- 📖 Writing **Technical Blog Posts**
+
+### 💡 Fun Fact
+
+<div align="center">
+  <img src="images/snake_white.svg" alt="Python Snake" width="100"/>
+  <br>
+  <em>"Code is poetry written in logic" - Me</em>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=diamondman51&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <br>
+  <em>Thanks for visiting my profile! Have a great day! 😊</em>
+</div>
+
+---
+
+<div align="center">
+  <strong>⭐ Star this repo if you found it interesting!</strong>
+</div>
